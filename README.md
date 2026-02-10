@@ -1,4 +1,4 @@
-# 📘 Projeto de Estudos em Java
+# 📘 Projetos práticos em Java
 
 Este repositório contém um conjunto de **exercícios e exemplos práticos em Java**, desenvolvidos com foco em **boas práticas**, **organização por pacotes** e introdução a conceitos como **orientação a objetos**, **arquitetura em camadas** e **MVC (Model–View–Controller)**.
 
@@ -107,5 +107,6 @@ Essas classes seguem o conceito de **entidades**, sendo responsáveis apenas por
 Engenheiro de Software
 
 ---
+
 
 
